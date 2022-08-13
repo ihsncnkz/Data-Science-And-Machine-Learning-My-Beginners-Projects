@@ -16,4 +16,5 @@ My projects links:
 - [Recommendation System With KNN](https://www.kaggle.com/code/ihsncnkz/recommendation-system-with-knn)
 
 [My Kaggle Profile](https://www.kaggle.com/ihsncnkz) <br>
-[My Linkedin Profile](https://www.linkedin.com/in/ihsan-cenk%C4%B1z-b070a7154/)
+[My Linkedin Profile](https://www.linkedin.com/in/ihsan-cenk%C4%B1z-b070a7154/) <br>
+[DATAITEM Udemy Profile](https://www.udemy.com/user/datai-team/)
